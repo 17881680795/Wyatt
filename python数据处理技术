@@ -1,0 +1,29 @@
+Python数据处理技术包括：
+
+1.  NumPy：用于处理数值数据的Python库。
+
+2.  Pandas：使用此库管理和处理大型数据集。
+
+3.  Matplotlib：用于可视化数据的Python绘图库。
+
+4.  SciPy：包括一组用于数值计算和科学计算的Python库。
+
+5.  Scikit-learn：用于数据挖掘和机器学习的Python库
+
+6.  TensorFlow：用于机器学习和深度学习的开源人工智能库。
+
+7.  PyTorch：类似于TensorFlow，用于机器学习和深度学习的Python库。
+
+8.  Seaborn：用于创建可视化统计数据的Python库。
+
+9.  OpenCV：用于计算机视觉和图像处理的Python库。
+
+10.  Numba：将Python代码编译为快速执行的机器码，加速数值计算和科学计算。
+
+11.  Dask：用于并行计算和分布式计算的Python库。
+
+12.  GeoPandas：用于地理空间数据分析和操作的Python库。
+
+13.  Bokeh：用于创建交互式数据可视化的Python库。
+
+14.  NetworkX：用于复杂网络分析的Python库。
